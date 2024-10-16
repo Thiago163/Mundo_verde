@@ -13,20 +13,38 @@
         <mxCell id="xKaJrzAjjyIe3hL2cJAd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKaJrzAjjyIe3hL2cJAd-1" target="xKaJrzAjjyIe3hL2cJAd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xKaJrzAjjyIe3hL2cJAd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xKaJrzAjjyIe3hL2cJAd-1" target="xKaJrzAjjyIe3hL2cJAd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xKaJrzAjjyIe3hL2cJAd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKaJrzAjjyIe3hL2cJAd-1" target="xKaJrzAjjyIe3hL2cJAd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xKaJrzAjjyIe3hL2cJAd-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;PROJETO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="130" width="146" height="60" as="geometry" />
+          <mxGeometry x="341" y="140" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKaJrzAjjyIe3hL2cJAd-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Aplicativo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="194" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKaJrzAjjyIe3hL2cJAd-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Desktop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKaJrzAjjyIe3hL2cJAd-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Site&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="562" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="514" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKaJrzAjjyIe3hL2cJAd-8" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Estrura Analitica do Projeto - (EAP)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="137" y="50" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xKaJrzAjjyIe3hL2cJAd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xKaJrzAjjyIe3hL2cJAd-10" target="xKaJrzAjjyIe3hL2cJAd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xKaJrzAjjyIe3hL2cJAd-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Documento&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xKaJrzAjjyIe3hL2cJAd-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Diagramas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xKaJrzAjjyIe3hL2cJAd-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Banco de dados&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
