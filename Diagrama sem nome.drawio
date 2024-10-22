@@ -337,6 +337,24 @@
         <mxCell id="NQdcdel10DfEMZxih-fd-88" value="tipo_documento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="720" y="642.5" width="100" height="17.5" as="geometry" />
         </mxCell>
+        <mxCell id="NQdcdel10DfEMZxih-fd-89" value="email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="619" y="880" width="61" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NQdcdel10DfEMZxih-fd-90" value="telefone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="650.5" y="880" width="61" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NQdcdel10DfEMZxih-fd-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="840" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NQdcdel10DfEMZxih-fd-92" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NQdcdel10DfEMZxih-fd-91" target="NQdcdel10DfEMZxih-fd-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1150" as="sourcePoint" />
+            <mxPoint x="770" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQdcdel10DfEMZxih-fd-93" value="senha" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="680" y="880" width="61" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
