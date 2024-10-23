@@ -8,19 +8,25 @@
           <mxGeometry x="140" y="80" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eRNqh1kzHmNiQd-LDzF3-2" value="Gerar_Infomacoes_Compra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="330" width="226" height="30" as="geometry" />
+          <mxGeometry x="121" y="330" width="228" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eRNqh1kzHmNiQd-LDzF3-4" value="+Produto: String&lt;div&gt;+Cliente: String&lt;/div&gt;&lt;div&gt;+Data: DateTime&lt;/div&gt;&lt;div&gt;+Descricao_produto: String&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="eRNqh1kzHmNiQd-LDzF3-4" value="+Produto: String&lt;div&gt;+Codigo_venda: Integer&lt;br&gt;&lt;div&gt;+Cliente: String&lt;/div&gt;&lt;div&gt;+Data: DateTime&lt;/div&gt;&lt;div&gt;+Descricao_produto: String&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eRNqh1kzHmNiQd-LDzF3-5" value="+codigo_transacao&lt;div&gt;+quantidade_itens&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="122" y="360" width="226" height="50" as="geometry" />
+        <mxCell id="eRNqh1kzHmNiQd-LDzF3-5" value="+codigo_transacao: integer&lt;div&gt;+quantidade_itens: integer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="121" y="360" width="228" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eRNqh1kzHmNiQd-LDzF3-6" value="+Vender(vender: vender)&lt;div&gt;+Cancelar_veda(vender: vender)&lt;/div&gt;&lt;div&gt;+Atualizar_venda(vender: vender)&lt;/div&gt;&lt;div&gt;+Deletar_venda(itens: itens)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="190" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eRNqh1kzHmNiQd-LDzF3-7" value="+Gerar_relatório&lt;div&gt;+Armazenar_informacoes&lt;/div&gt;&lt;div&gt;+Deletar_informacoes&lt;/div&gt;&lt;div&gt;+Atualizar_informacoes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="122" y="410" width="226" height="80" as="geometry" />
+          <mxGeometry x="121" y="400" width="228" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eRNqh1kzHmNiQd-LDzF3-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eRNqh1kzHmNiQd-LDzF3-2" target="eRNqh1kzHmNiQd-LDzF3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="380" as="sourcePoint" />
+            <mxPoint x="-10" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
