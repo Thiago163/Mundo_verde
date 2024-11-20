@@ -1,6 +1,6 @@
 # Pim Mundo Verde - Ultima Versão
 
-Este repositório contém a primeira versão do aplicativo **Pim Mundo Verde**, que permite o gerenciamento de uma fazenda urbana. O sistema inclui versões **mobile**, **web** e **desktop**.
+Este repositório contém o Projeto Integrado Multidisciplinar IV **Pim Mundo Verde**, que permite o gerenciamento de uma fazenda urbana. O sistema inclui versões **mobile**, **web** e **desktop**.
 
 - **Mobile**: Aplicativo desenvolvido em **Java**.
 - **Web**: Plataforma desenvolvida em **.NET MVC Razor**.
