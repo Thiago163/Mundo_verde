@@ -6,6 +6,10 @@ Este repositório contém a primeira versão do aplicativo **Pim Mundo Verde**, 
 - **Web**: Plataforma desenvolvida em **.NET MVC Razor**.
 - **Desktop**: Aplicativo desenvolvido em **C#**.
 
+## Acesse o App
+
+Você pode acessar o código-fonte completo do projeto **Pim Mundo Verde** aqui: [Pim Mundo Verde - GitHub](https://github.com/Thiago163/Pim_Mundo_Verde/tree/main).
+
 ## Funcionalidades
 
 - **Cadastro e Login**: Usuários podem se registrar e fazer login.
@@ -34,10 +38,6 @@ Este repositório contém a primeira versão do aplicativo **Pim Mundo Verde**, 
 - **PABLO DA SILVA RUFINO** - RA: R0133H9
 - **TIAGO FERREIRA DOS SANTOS** - RA: N046BH2
 - **THIAGO SILVA DA CRUZ** (Líder Geral e de Desenvolvimento) - RA: F34JIJ0
-
-## Acesse o App
-
-Você pode acessar o código-fonte completo do projeto **Pim Mundo Verde** aqui: [Pim Mundo Verde - GitHub](https://github.com/Thiago163/Pim_Mundo_Verde/tree/main).
 
 ## Links Importantes
 
